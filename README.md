@@ -1,5 +1,5 @@
 # subnet-planner
-given a supernet/cidr and list of subnets (by required number of hosts) this script will plan out the list of subnets needed
+given a supernet/cidr and list of subnets (by  number of required hosts) this script will plan out the list of subnets needed
 
 WIP/doesnt work yet
 
